@@ -1,0 +1,120 @@
+{
+  "user": [
+    {
+      "name": "anil",
+      "email": "anilkumar@gmail.com",
+      "password": "abcd",
+      "id": 1
+    },
+    {
+      "name": "ajay",
+      "email": "ajakumar@gmail.com",
+      "password": "abcd",
+      "id": 2
+    },
+    {
+      "name": "Sumit",
+      "email": "sumitsingh@gmail.com",
+      "password": "abcd",
+      "id": 3
+    },
+    {
+      "name": "vijay",
+      "email": "vijya003@gmail.com",
+      "password": "abcd",
+      "id": 4
+    },
+    {
+      "name": "Sandeep",
+      "email": "Sandeepsharma@gmail.com",
+      "password": "abcd",
+      "id": 5
+    },
+    {
+      "name": "Divya",
+      "email": "divyaKeshri@gmail.com",
+      "password": "abcd",
+      "id": 6
+    },
+    {
+      "email": "Piyushamlviay@gmail.com",
+      "name": "Piyush",
+      "password": "cvcsvavs",
+      "id": 7
+    },
+    {
+      "email": "PiyushMalviya@gmail.com",
+      "name": "Piyush",
+      "password": "jsanjqnvr",
+      "id": 8
+    },
+    {
+      "email": "Peter@gmail.com",
+      "name": "Peter",
+      "password": "pofvoeve",
+      "id": 9
+    },
+    {
+      "email": "anilcheck@gmail.com",
+      "name": "anil",
+      "password": "fm;km;vrmlkev",
+      "id": 10
+    },
+    {
+      "email": "ss",
+      "name": "ss",
+      "password": "",
+      "id": 11
+    },
+    {
+      "email": "xssxaa",
+      "name": "ss",
+      "password": "sac",
+      "id": 12
+    },
+    {
+      "email": "cwec",
+      "name": "scwe",
+      "password": "wcwec",
+      "id": 13
+    },
+    {
+      "email": "test@test.com",
+      "name": "test",
+      "password": "Toshu@2022",
+      "id": 14
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "address": "Noida sector 50",
+      "contact": 7252986755
+    },
+    {
+      "id": 2,
+      "name": "The Lengend",
+      "address": "Noida sector 40",
+      "contact": 7256986755
+    },
+    {
+      "id": 3,
+      "name": "Family Time",
+      "address": "Graeter Noida sector 50",
+      "contact": 7252986755
+    },
+    {
+      "id": 4,
+      "name": "Second Wife",
+      "address": "484/8 Old delhi",
+      "contact": 7252986755
+    },
+    {
+      "id": 5,
+      "name": "Moti Mehal",
+      "address": "58/9 Khan Market",
+      "contact": 7252986755
+    }
+  ]
+}
